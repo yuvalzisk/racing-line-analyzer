@@ -1,0 +1,21 @@
+# ROS 2 generated files
+**/build/
+**/install/
+**/log/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local generated results
+results/
+
+# Python prototype outputs
+centerline.png
+/track_comparison.png
+/curvature_comparison.png
+
+# Editor files
+*~
+*.save
